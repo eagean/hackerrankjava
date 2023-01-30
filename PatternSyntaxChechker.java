@@ -18,10 +18,6 @@ public class Solution
             catch(Exception i){
                 System.out.printf("Invalid"+"%n");
             }
-            
-            
-        
-          	//Write your code
               q++;
                  
                   
